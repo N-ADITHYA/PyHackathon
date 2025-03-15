@@ -1,0 +1,28 @@
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore spaCy models if added later
+models/
+
+# Ignore config files (if you add API keys in the future)
+config/
+
+# Ignore system files (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Ignore logs & temp files
+logs/
+*.log
+
+# Ignore PyCharm settings (if using PyCharm)
+.idea/
+
+# Ignore Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
