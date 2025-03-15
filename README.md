@@ -11,7 +11,7 @@ This is an **AI-powered voice assistant** that works completely **offline**. It 
 ### **Clone the Repository**
 ```sh
 git clone https://github.com/N-ADITHYA/PyHackathon.git
-cd smart_assistant
+cd Hackathon_22BTRCO006
 ```
 
 ### **Set Up the Environment**
